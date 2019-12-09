@@ -1,4 +1,4 @@
-import { SharedModule } from '@aa/shared';
+import { SharedModule } from '@aa/shared/shared.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
